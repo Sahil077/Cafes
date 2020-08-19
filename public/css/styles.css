@@ -1,0 +1,26 @@
+#starting_page{
+    margin: 80px 50px 0 50px;
+}
+
+.heading{
+    text-align: center;
+    margin: 50px 0 50px 0;
+}
+
+.table-striped{
+    margin: 40px 50px 20px 50px;
+    border: 10px 10px;
+}
+.icon{
+    margin: 0px 5px 0 10px;
+}
+
+.details_page{
+    margin: 0 120px 0 120px;
+}
+.form_place{
+    text-align: center;
+}
+.col_details{
+    margin-right: 10px;
+}
